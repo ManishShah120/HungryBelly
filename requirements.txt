@@ -1,0 +1,14 @@
+asgiref==3.3.1
+branca==0.4.2
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.1.7
+folium==0.12.1
+idna==2.10
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+numpy==1.20.1
+pytz==2021.1
+requests==2.25.1
+sqlparse==0.4.1
+urllib3==1.26.4

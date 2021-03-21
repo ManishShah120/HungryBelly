@@ -26,6 +26,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'mysite',
+    'accounts',
+    'bootstrap4',
+    'crispy_forms',
 ]
 
 MIDDLEWARE = [
@@ -55,6 +58,7 @@ TEMPLATES = [
         },
     },
 ]
+STATIC_URL = '/static/'
 
 WSGI_APPLICATION = 'hungrybelly.wsgi.application'
 
